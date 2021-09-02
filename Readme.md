@@ -1,3 +1,3 @@
 # Teste
 
-Repositorio poara testes com git e github :)
+Repositorio para testes com git e github :)
