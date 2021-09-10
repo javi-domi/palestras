@@ -1,0 +1,7 @@
+- nav bar
+- criar issues
+- vim
+- commits maiores
+- close issue
+- utilizar vim
+- automatização
